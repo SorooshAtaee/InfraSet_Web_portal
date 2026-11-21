@@ -1,0 +1,10 @@
+node_modules
+.next
+.git
+.zscripts
+tool-results
+download
+upload
+db/*.db
+*.log
+.DS_Store
